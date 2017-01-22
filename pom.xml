@@ -32,10 +32,11 @@
             <artifactId>okhttp</artifactId>
             <version>3.5.0</version>
         </dependency>
+
         <dependency>
-            <groupId>com.squareup.okio</groupId>
-            <artifactId>okio</artifactId>
-            <version>1.11.0</version>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.12</version>
         </dependency>
     </dependencies>
 </project>
